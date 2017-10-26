@@ -1,0 +1,10 @@
+syntax:glob
+*.pyc
+*~
+*.sublime*
+*.pickle
+.cache
+.coverage
+~*.*
+.ipynb_checkpoints
+*/.ipynb_checkpoints
